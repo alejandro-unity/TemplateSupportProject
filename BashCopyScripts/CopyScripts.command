@@ -12,7 +12,7 @@ cdf() {
 	fi
 }
 
-echo "Get the From Window folder "
+echo "Get path the from Finder "
 
 cdf
 
@@ -20,6 +20,7 @@ echo "Copying Unity Support files "
 
 pwd
 
-cp -rf  /Users/unity/Documents/Automator/Editor/ ./Assets/Editor/
+cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Editor/  ./Assets/Editor/
+cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Scripts/ ./Assets/Scripts/
 
 exit
