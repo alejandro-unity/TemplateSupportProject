@@ -11,6 +11,8 @@ public class Utilities  {
 
 		var ndkPath = System.Environment.GetEnvironmentVariable("ANDROID_NDK_ROOT");
 		Debug.Log(ndkPath);
+
+		EditorUserBuildSettings.androidBuildSubtarget =  MobileTextureSubtarget.ETC2;
 	}	
 
 	[MenuItem("Support/iOS/SetBundleID_TeamID")]
