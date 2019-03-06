@@ -21,6 +21,11 @@ echo "Copying Unity Support files "
 pwd
 
 cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Editor/  ./Assets/Editor/
+
 cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Scripts/ ./Assets/Scripts/
+
+cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Scenes/ ./Assets/Scenes/
+
+cp -rf  /Users/unity/Documents/Unity-GitHub/TemplateSupportProject/Assets/Plugins/ ./Assets/Plugins/
 
 exit
