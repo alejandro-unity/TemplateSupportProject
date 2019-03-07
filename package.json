@@ -1,7 +1,7 @@
 {
     "name": "com.support.templatex",
     "displayName": "Template Support",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "unity": "2018.1",
     "description": "This package provides X, Y, and Z. \n\nTo find out more, click the \"View Documentation\" link.",
     "keywords": ["key X", "key Y", "key Z"],

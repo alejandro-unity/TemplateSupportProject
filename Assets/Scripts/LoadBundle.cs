@@ -22,8 +22,7 @@ public class LoadBundle : MonoBehaviour {
 	string log = "";
 
 	void Start ()
-	{	
-			
+	{			
 	}
 
 	void OperateBundle ()
